@@ -109,7 +109,8 @@ welcome = """
     <h1>Congratulations</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
-    <p>This is Di Liu Hw7 for third change, let me try.<p>
+    <p>This is Di Liu Hw7 for third change, let me try.</p>
+    <p>This is final change for HW7</p>
   </div>
   
   <div class="linksColumn"> 
